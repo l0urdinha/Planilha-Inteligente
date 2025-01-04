@@ -1,6 +1,6 @@
 # Planilha-Inteligente
 
-Este projeto foi feito no Excel: base de dados, tabelas para manipulá-las e na IDE Visual Studio Code 
+Este projeto foi feito no Excel: base de dados e tabelas para manipulá-las
 ## 🤖 Tecnologias Utilizadas
 ## Excel
 
